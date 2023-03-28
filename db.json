@@ -5,7 +5,7 @@
         "title": "Queso Brat Scramble",
         "description": "A delicious breakfast, fit for a crowd.",
         "images": {
-          "full": "img/queso_brat_scramble.jpg"
+          "full": "./img/queso_brat_scramble.jpg"
         },
         "servings": 5,
         "prepTime": 10,
